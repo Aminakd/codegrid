@@ -1,0 +1,18 @@
+<doctype html>
+
+<html lang="e">
+ 
+ <head>
+  < meta  charset =" UTF-8 " >
+<metanamename="viewport"content="width=device-width,initial-scale=1.0">
+    <style>
+ html {
+            scroll-behavior: smooth;
+        }
+
+        # part_definition {
+            background-color: blue;
+        }
+    </style>
+  </head>   
+ 
